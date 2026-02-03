@@ -11,7 +11,7 @@ html{
     font-family: Arial, Helvetica, sans-serif;
     /* height: 100vh;
     width: 100%; */
-    background-image:url('imgs/3129.jpg');
+    background-image:url('3129.jpg');
     background-size: cover;
     background-position: center ;
     background-repeat: no-repeat;
@@ -130,7 +130,7 @@ html{
     padding-left: 10%;
 }
 .upboximage{
-    background-image: url('imgs/example1.jpg');
+    background-image: url('example1.jpg');
     width: 40%;
     height: 400px;  
     background-size: cover;
@@ -142,7 +142,7 @@ html{
 
 }
 .lowboximage{
-    background-image: url('imgs/example2.jpg');
+    background-image: url('example2.jpg');
     width: 40%;
     height: 400px;  
     background-size: cover;
@@ -272,7 +272,7 @@ html{
 .img{
     width: 85%;
     height: 100%;
-    background-image: url('imgs/25919865_21139516636808.jpg');
+    background-image: url('25919865_21139516636808.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
