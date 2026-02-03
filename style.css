@@ -94,6 +94,7 @@ html{
     background-repeat: no-repeat;
     border-radius: 1000px;
     box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 2;
 }
 #about{
     padding: 50px;
